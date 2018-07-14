@@ -1,8 +1,6 @@
-# fullStackProject
-
 # React & Redux Projects
 
-### Youtube video search/player
+### Youtube Video Search/Player
 ### Redux Book Viewer 
 ### Weather Forecaster using Axios Redux-Promises
 ### React-Redux Form Blog App
