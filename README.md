@@ -1,5 +1,3 @@
-# fullStackProject
-
 # React & Redux Projects
 
 ### Youtube video search/player
